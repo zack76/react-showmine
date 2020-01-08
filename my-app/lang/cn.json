@@ -1,0 +1,34 @@
+{
+  "SHOWMINE": "捎卖",
+  "CANCEL": "取消",
+  "CONSULTATION": "资讯文章",
+  "LOADING": "加载中",
+
+
+
+  "ITEM.COMPANY.FOLLOWERS": "关注量",
+  "ITEM.EDIT.JIELONG": "修改团购",
+  "ITEM.CANCEL.JIELONG": "取消团购",
+  "ITEM.BUY_NOW": "马上下单",
+
+
+  "COMPANY.INFORMATION": "商户信息",
+  "COMPANY.CONTACT": "电话",
+  "COMPANY.DESCRIPTION": "公司简介",
+  "COMPANY.FAVORITE": "收藏",
+  "COMPANY.JIELONG.ONGOING": "正在抢",
+  "COMPANY.JIELONG.PAST": "过往接龙",
+  "COMPANY.CONSULTATION.TITLE": "资讯文章",
+  "COMPANY.CONSULTATION.SHOW_MORE": "加载更多",
+
+  "CART": "购物车",
+  "CART.ITEM": "已选物品",
+  "CART.CLEAR": "清空购物车",
+  "CHECKOUT": "结算",
+
+  "EDIT": "编辑",
+  "EDIT.OLD": "旧版编辑",
+  "EDIT.NEW": "编辑",
+  "LOGIN": "登录",
+  "SUBSCRIBE": "订阅"
+}

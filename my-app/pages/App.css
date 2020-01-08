@@ -1,0 +1,246 @@
+.truncate {
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+   display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.no-margin {
+  margin: 0 !important;
+}
+.custom-font {
+  font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+}
+.text-color {
+  color: #333;
+}
+.icon-position-fix svg{
+  margin-bottom: -2px;
+  font-size: 13px;
+}
+.google-map-fix iframe{
+  border: none;
+}
+
+.weui-btn_disabled {
+  background-color: #ffe492!important;
+  color: #4d4d4d !important;
+}
+
+.weui-loadmore {
+  margin: 20px auto!important;
+}
+
+/*TODO:delete all classes from global css file, put every class in its own component or js file*/
+
+.App {
+  background-color: #fff;
+  /*padding-bottom: 1vmin;*/
+}
+
+.App-body {
+  background-color: #fff;
+}
+
+.footer {
+  background-color: white;
+  padding-top: 5vmin;
+}
+
+.button{
+  position: absolute;
+  bottom:0;
+}
+
+
+.checkout-img {
+  width: 100%;
+}
+
+.divider {
+  border-top: solid;
+  border-top-color: #c0c0c0;
+  border-top-width: 1px;
+  margin-left: 5vmin;
+  margin-right: 5vmin;
+}
+
+.checkout-info {
+  display: flex;
+  flex-direction: row;
+  padding: 5vmin;
+  flex: 1;
+}
+.checkout-content {
+  margin-left: 2vmin;
+  text-align: end;
+}
+.checkout-title {
+  font-size: 14px;
+  padding: 3vmin;
+  font-weight: bolder;
+}
+
+.checkout-subtitle{
+  font-size: 14px;
+  text-align: end;
+  margin-bottom: 1vmin;
+}
+
+.checkout-price {
+  text-align: end;
+  color: darkgreen;
+  margin-bottom: 1vmin;
+}
+.checkout-button {
+  margin: 5vmin;
+}
+
+
+.location {
+  padding: 4vmin;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-top: solid;
+  border-bottom: solid;
+  border-color: #f2f2f2;
+}
+
+.location-label {
+  color:grey;
+  font-size: 14px;
+}
+.location-tag {
+  font-size: 10px;
+  background-color: lightgrey;
+  display: inline-block;
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 5px;
+  margin-left: 5vmin;
+}
+
+.total-price {
+  text-align: end;
+  margin: 5vmin;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.price-number {
+  color: darkgreen;
+}
+
+.payment-block {
+  margin: 5vmin;
+  margin-bottom: 8vmin;
+  border: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+  background-color:lightgrey;
+  font-size: 16px;
+}
+
+.payment-block-title {
+  padding: 1vmin;
+}
+.payment-block-content {
+  background-color: white;
+  text-align: center;
+  padding: 1vmin;
+}
+
+.Number-Picker {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.Ref-num {
+  color: #106fb2;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.tag-icon {
+  color: white;
+  font-weight: bold;
+  background-color: #3CC51F;
+  padding: 1vmin;
+  border-radius: 5px;
+}
+
+.paidAmount-icon {
+  color: white;
+  font-weight: bold;
+  background-color: #f0ad4e;
+  padding: 1vmin;
+  border-radius: 5px;
+}
+
+.isInJielong-row {
+  display: flex;
+  background-color: white;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 5vmin;
+  margin-top:3vmin;
+}
+
+.allJielongInfo {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  padding: 2vmin;
+  margin-top:3vmin;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+pre {
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 4vw;
+}
+
+@media (max-width: 480px) {
+  .sticky {
+    display: none;
+  }
+}
+
+.article-desc img {
+  padding-bottom: 10px;
+}
+
+.article-desc p {
+  margin: 0;
+}
+
+body {
+  line-height: 1.2 !important;
+}

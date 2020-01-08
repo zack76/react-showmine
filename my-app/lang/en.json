@@ -1,0 +1,34 @@
+{
+  "SHOWMINE": "ShowMine",
+  "CANCEL": "Cancel",
+  "CONSULTATION": "Consultation",
+  "LOADING": "Loading",
+
+
+
+  "ITEM.COMPANY.FOLLOWERS": "Followers",
+  "ITEM.EDIT.JIELONG": "Edit JieLong",
+  "ITEM.CANCEL.JIELONG": "Cancel JieLong",
+  "ITEM.BUY_NOW": "Buy Now",
+
+
+  "COMPANY.INFORMATION": "Company Information",
+  "COMPANY.CONTACT": "Tel",
+  "COMPANY.DESCRIPTION": "Description",
+  "COMPANY.FAVORITE": "Subscribers",
+  "COMPANY.JIELONG.ONGOING": "Ongoing JieLong",
+  "COMPANY.JIELONG.PAST": "Previous JieLong",
+  "COMPANY.CONSULTATION.TITLE": "Consultation",
+  "COMPANY.CONSULTATION.SHOW_MORE": "Show More",
+
+  "CART": "Cart",
+  "CART.ITEM": "Selected Item(s)",
+  "CART.CLEAR": "Clear The Cart",
+  "CHECKOUT": "Checkout",
+
+  "EDIT": "Edit",
+  "EDIT.OLD": "Old Edit",
+  "EDIT.NEW": "Edit ",
+  "LOGIN": "Login",
+  "SUBSCRIBE": "Subscribe"
+}
